@@ -29,7 +29,9 @@ Outside of work, I enjoy experimenting with:
 If you'd like to collaborate, discuss ideas, or just say hi, feel free to reach out:
 
 - **LinkedIn**: [daviddios](https://www.linkedin.com/in/daviddios)
-- **Twitter**: [@daviddioshun](https://x.com/daviddioshun)
+- **X**: [@daviddioshun](https://x.com/daviddioshun)
+- **Mastodon**: [@david@webperf.social](https://webperf.social/@david)
+- **Bluesky**: [@david-dios.bsky.social](https://bsky.app/profile/david-dios.bsky.social)
 
 <table>
   <tr>
