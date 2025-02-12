@@ -33,7 +33,10 @@ If you'd like to collaborate, discuss ideas, or just say hi, feel free to reach 
 
 <table>
   <tr>
-    <td><a href="https://github.com/dios-david"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dios-david&theme=dark" height="220em" /></a></td>
-    <td><a href="https://github.com/dios-david"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dios-david&theme=dark" height="220em" /></a></td>
+    <td colspan="2"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dios-david&theme=dark" height="222em" /></td>
+  </tr>
+  <tr>
+    <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dios-david&theme=dark" height="220em" /></td>
+    <td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dios-david&theme=dark&utcOffset=0" height="220em" /></td>
   </tr>
 </table>
